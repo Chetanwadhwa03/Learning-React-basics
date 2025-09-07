@@ -1,0 +1,19 @@
+.card{
+    background-color: bisque;
+    width: 20vw;
+    height: 45vh;
+    border: 2px solid black;
+    margin: 30px 10px;
+}
+
+.card:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+.card h1 {
+   text-align: center;
+}
+
+.card p{
+    text-align: center;
+}
